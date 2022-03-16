@@ -1,0 +1,1 @@
+# cookiecutter-neuromarket-model
