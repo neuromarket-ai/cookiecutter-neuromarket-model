@@ -26,7 +26,7 @@ Cookiecutter 1.4.0 or higher)::
 
     pip install -U cookiecutter
     
-Clone a cookiecutter-neuromarket-model project
+Clone a cookiecutter-neuromarket-model project::
     
     git clone https://github.com/neuromarket-ai/cookiecutter-neuromarket-model
 
